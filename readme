@@ -1,0 +1,8 @@
+Features include- 
+1. Adding a comment
+2. Replying to the comment - to any nested level N
+3. Deleting the comment, which should delete all replies to that comment
+4. Feature to Edit the comment / reply
+5. Adding time stamps to comment / reply
+6. Form validatioAesthetic design
+7. Adding user level access - You will be able to edit/delete only your comment
